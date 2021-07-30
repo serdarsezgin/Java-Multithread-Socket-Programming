@@ -254,14 +254,4 @@ class ClientHandler extends Thread {
 
     //iş listesi yazdır..
 }
-//                        try {
-//
-//                            Thread.sleep((test.getUzunluk() / tes.getSpeed()) * 1000);
-//                            //client.wait((test.getUzunluk()/tes.getSpeed())*1000);
-//                            System.out.println("MAKİNE İŞİ BİTİRDİ");
-//                            oJob.JobsList.remove(tes);
-//                            tes.setStatus("EMPTY");
-//
-//                        } catch (InterruptedException ex) {
-//                            Logger.getLogger(ClientHandler.class.getName()).log(Level.SEVERE, null, ex);
-//                        }
+
